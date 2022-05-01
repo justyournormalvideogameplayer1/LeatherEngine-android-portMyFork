@@ -4,9 +4,9 @@ This is the repository for Leather Engine, an engine created for making and play
 
 ## Links
 
-- [Gamebanana Page](https://gamebanana.com/mods/334945)
+- [the one who made the port for android](https://youtube.com/channel/UCOHc0j8k31wcf9Z8dENjWRQ)
 
-- [Some Mod Ports](https://github.com/Leather128/LeathersFNFModPorts)
+- [My discord server (spanish](https://discord.gg/6P3zYc85)
 
 ## Build Instructions 
 
